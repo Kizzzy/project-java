@@ -1,0 +1,1 @@
+@call kernel_git.bat "git pull"

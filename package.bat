@@ -1,0 +1,1 @@
+@call kernel_mvn.bat "mvn clean package -DskipTests" %~1
