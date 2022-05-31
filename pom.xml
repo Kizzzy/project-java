@@ -5,11 +5,56 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kizzzy</groupId>
-    <artifactId>project-java</artifactId>
+    <artifactId>toolkit-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
+        <module>game-2048</module>
+        <module>game-tetris</module>
+        <module>game-gobang</module>
+        <module>toolkit-21tb</module>
+        <module>toolkit-clicker</module>
+        <module>toolkit-codec</module>
+        <module>toolkit-crawler</module>
+        <module>toolkit-data-analysis</module>
+        <module>toolkit-db-mysql</module>
+        <module>toolkit-db-xlsx</module>
+        <module>toolkit-dnf</module>
+        <module>toolkit-ffmpeg</module>
+        <module>toolkit-file-hash</module>
+        <module>toolkit-file-merge</module>
+        <module>toolkit-file-rename</module>
+        <module>toolkit-git-clone</module>
+        <module>toolkit-gui</module>
+        <module>toolkit-hls</module>
+        <module>toolkit-http</module>
+        <module>toolkit-image-blend</module>
+        <module>toolkit-json</module>
+        <module>toolkit-krkr</module>
+        <module>toolkit-memory</module>
+        <module>toolkit-misc</module>
+        <module>toolkit-mobile</module>
+        <module>toolkit-pfs</module>
+        <module>toolkit-pkg</module>
+        <module>toolkit-proxy</module>
+        <module>toolkit-psw-get</module>
+        <module>toolkit-qqfo</module>
+        <module>toolkit-qqnc</module>
+        <module>toolkit-qqt</module>
+        <module>toolkit-quickly</module>
+        <module>toolkit-renpy</module>
+        <module>toolkit-sanguo-fuzhu</module>
+        <module>toolkit-sanguo-shop</module>
+        <module>toolkit-sghero</module>
+        <module>toolkit-shikari</module>
+        <module>toolkit-signer</module>
+        <module>toolkit-swf</module>
+        <module>toolkit-tth</module>
+        <module>toolkit-viewer</module>
+        <module>toolkit-window</module>
+        <module>toolkit-xk-excel</module>
+        <module>toolkit-xk-mail</module>
     </modules>
 
     <properties>
@@ -17,15 +62,20 @@
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+
+        <toolkit.deploy.root>C:/Kizzzy/Toolkit</toolkit.deploy.root>
+        <toolkit.release.root>D:/DevProject/toolkit/toolkit-java-release</toolkit.release.root>
     </properties>
 
     <build>
         <plugins>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.5.1</version>
             </plugin>
+
         </plugins>
     </build>
 </project>

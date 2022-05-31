@@ -20,4 +20,5 @@
 .idea/
 .user/
 /**/target/
-/lib47-*/
+/game-*/
+/toolkit-*/
