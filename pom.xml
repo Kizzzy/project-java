@@ -5,11 +5,53 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kizzzy</groupId>
-    <artifactId>project-java</artifactId>
+    <artifactId>lib47-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
+        <module>lib47-21tb</module>
+        <module>lib47-algorithm</module>
+        <module>lib47-animations</module>
+        <module>lib47-cmd</module>
+        <module>lib47-dbtoolkit</module>
+        <module>lib47-dnf</module>
+        <module>lib47-helper</module>
+        <module>lib47-hls</module>
+        <module>lib47-http</module>
+        <module>lib47-image</module>
+        <module>lib47-io</module>
+        <module>lib47-javafx</module>
+        <module>lib47-javafx-display</module>
+        <module>lib47-javafx-viewer</module>
+        <module>lib47-jnative</module>
+        <module>lib47-json</module>
+        <module>lib47-krkr</module>
+        <module>lib47-manager</module>
+        <module>lib47-netty</module>
+        <module>lib47-network</module>
+        <module>lib47-nim</module>
+        <module>lib47-pfs</module>
+        <module>lib47-pkg</module>
+        <module>lib47-poi</module>
+        <module>lib47-proxy</module>
+        <module>lib47-qqfo</module>
+        <module>lib47-qqnc</module>
+        <module>lib47-qqt</module>
+        <module>lib47-qqxl</module>
+        <module>lib47-renpy</module>
+        <module>lib47-sanguo</module>
+        <module>lib47-sghero</module>
+        <module>lib47-shikari</module>
+        <module>lib47-swf</module>
+        <module>lib47-taobao</module>
+        <module>lib47-task</module>
+        <module>lib47-temp</module>
+        <module>lib47-tencent</module>
+        <module>lib47-tencent-network</module>
+        <module>lib47-toolkit</module>
+        <module>lib47-vfs</module>
+        <module>lib47-vfs-network</module>
     </modules>
 
     <properties>
