@@ -36,6 +36,7 @@
         <module>lib47-poi</module>
         <module>lib47-proxy</module>
         <module>lib47-qqfo</module>
+        <module>lib47-qqhx</module>
         <module>lib47-qqnc</module>
         <module>lib47-qqt</module>
         <module>lib47-qqxl</module>
@@ -49,6 +50,7 @@
         <module>lib47-temp</module>
         <module>lib47-tencent</module>
         <module>lib47-tencent-network</module>
+        <module>lib47-test</module>
         <module>lib47-toolkit</module>
         <module>lib47-vfs</module>
         <module>lib47-vfs-network</module>

@@ -26,6 +26,7 @@
     lib47-poi
     lib47-proxy
     lib47-qqfo
+    lib47-qqhx
     lib47-qqt
     lib47-qqxl
     lib47-renpy
@@ -40,6 +41,6 @@
     lib47-tencent-network
     lib47-toolkit
     lib47-vfs
-    lib47-vfs-network) do @cd /d %current%%%i&%~1
+    lib47-vfs-network) do cd /d %current%%%i&if exist ".git" %~1
 
 @pause
