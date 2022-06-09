@@ -33,6 +33,7 @@
     toolkit-proxy
     toolkit-psw-get
     toolkit-qqfo
+    toolkit-qqhx
     toolkit-qqnc
     toolkit-qqt
     toolkit-quickly
