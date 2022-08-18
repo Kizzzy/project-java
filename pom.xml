@@ -13,12 +13,15 @@
         <module>lib47-21tb</module>
         <module>lib47-algorithm</module>
         <module>lib47-animations</module>
+        <module>lib47-archive</module>
         <module>lib47-cmd</module>
         <module>lib47-dbtoolkit</module>
         <module>lib47-dnf</module>
+        <module>lib47-free-arc</module>
         <module>lib47-helper</module>
         <module>lib47-hls</module>
         <module>lib47-http</module>
+        <module>lib47-hxdl</module>
         <module>lib47-image</module>
         <module>lib47-io</module>
         <module>lib47-javafx</module>
@@ -28,6 +31,7 @@
         <module>lib47-json</module>
         <module>lib47-krkr</module>
         <module>lib47-manager</module>
+        <module>lib47-media</module>
         <module>lib47-netty</module>
         <module>lib47-network</module>
         <module>lib47-nim</module>
