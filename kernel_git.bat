@@ -8,6 +8,7 @@
     game-gobang
     game-tetris
     toolkit-21tb
+    toolkit-archive
     toolkit-clicker
     toolkit-codec
     toolkit-crawler
@@ -22,9 +23,11 @@
     toolkit-gui
     toolkit-hls
     toolkit-http
+    toolkit-hxdl
     toolkit-image-blend
     toolkit-json
     toolkit-krkr
+    toolkit-media
     toolkit-memory
     toolkit-misc
     toolkit-mobile
@@ -46,6 +49,7 @@
     toolkit-swf
     toolkit-tth
     toolkit-viewer
-    toolkit-window) do @cd /d %current%%%i&%~1
+    toolkit-window
+    webpage-tphx) do cd /d %current%%%i&if exist ".git" %~1
 
 @pause

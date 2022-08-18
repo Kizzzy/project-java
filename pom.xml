@@ -14,6 +14,7 @@
         <module>game-tetris</module>
         <module>game-gobang</module>
         <module>toolkit-21tb</module>
+        <module>toolkit-archive</module>
         <module>toolkit-clicker</module>
         <module>toolkit-codec</module>
         <module>toolkit-crawler</module>
@@ -29,9 +30,11 @@
         <module>toolkit-gui</module>
         <module>toolkit-hls</module>
         <module>toolkit-http</module>
+        <module>toolkit-hxdl</module>
         <module>toolkit-image-blend</module>
         <module>toolkit-json</module>
         <module>toolkit-krkr</module>
+        <module>toolkit-media</module>
         <module>toolkit-memory</module>
         <module>toolkit-misc</module>
         <module>toolkit-mobile</module>
@@ -56,6 +59,7 @@
         <module>toolkit-window</module>
         <module>toolkit-xk-excel</module>
         <module>toolkit-xk-mail</module>
+        <module>webpage-tphx</module>
     </modules>
 
     <properties>

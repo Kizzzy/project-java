@@ -1,9 +1,14 @@
+@call package.bat toolkit-archive
 @call package.bat toolkit-dnf
+@call package.bat toolkit-hdxl
+@call package.bat toolkit-krkr
+@call package.bat toolkit-media
 @call package.bat toolkit-pfs
 @call package.bat toolkit-pkg
-@call package.bat toolkit-renpy
 @call package.bat toolkit-qqfo
 @call package.bat toolkit-qqhx
 @call package.bat toolkit-qqt
+@call package.bat toolkit-renpy
+@call package.bat toolkit-sghero
 @call package.bat toolkit-shikari
 @call package.bat toolkit-viewer

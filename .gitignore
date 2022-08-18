@@ -20,5 +20,8 @@
 .idea/
 .user/
 /**/target/
+
+# Module
 /game-*/
 /toolkit-*/
+/webpage-*/
