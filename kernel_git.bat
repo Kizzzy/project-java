@@ -30,9 +30,9 @@
     lib47-network
     lib47-nim
     lib47-pfs
-    lib47-pkg
     lib47-poi
     lib47-proxy
+    lib47-qq3g
     lib47-qqfo
     lib47-qqhx
     lib47-qqt
