@@ -1,1 +1,1 @@
-@call kernel_mvn.bat "mvn clean install -DskipTests" %~1
+@call kernel_mvn.bat "mvn clean source:jar install -DskipTests" %~1
