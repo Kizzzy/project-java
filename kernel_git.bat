@@ -11,6 +11,7 @@
     lib47-cmd
     lib47-dbtoolkit
     lib47-dnf
+    lib47-dragonbones
     lib47-free-arc
     lib47-helper
     lib47-hls
@@ -18,6 +19,7 @@
     lib47-hxdl
     lib47-image
     lib47-io
+    lib47-iso
     lib47-javafx
     lib47-javafx-display
     lib47-javafx-viewer
@@ -32,6 +34,7 @@
     lib47-pfs
     lib47-poi
     lib47-proxy
+    lib47-pvz
     lib47-qq3g
     lib47-qqfo
     lib47-qqhx
