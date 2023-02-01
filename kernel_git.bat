@@ -44,6 +44,7 @@
     lib47-sanguo
     lib47-sghero
     lib47-shikari
+    lib47-spine
     lib47-swf
     lib47-taobao
     lib47-task
