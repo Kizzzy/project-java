@@ -22,11 +22,11 @@
         <module>toolkit-db-mysql</module>
         <module>toolkit-db-xlsx</module>
         <module>toolkit-dnf</module>
+        <module>toolkit-dragonbones</module>
         <module>toolkit-ffmpeg</module>
         <module>toolkit-file-hash</module>
         <module>toolkit-file-merge</module>
         <module>toolkit-file-rename</module>
-        <module>toolkit-git-clone</module>
         <module>toolkit-gui</module>
         <module>toolkit-hls</module>
         <module>toolkit-http</module>
@@ -39,9 +39,10 @@
         <module>toolkit-misc</module>
         <module>toolkit-mobile</module>
         <module>toolkit-pfs</module>
-        <module>toolkit-pkg</module>
         <module>toolkit-proxy</module>
         <module>toolkit-psw-get</module>
+        <module>toolkit-pvz</module>
+        <module>toolkit-qq3g</module>
         <module>toolkit-qqfo</module>
         <module>toolkit-qqhx</module>
         <module>toolkit-qqnc</module>
@@ -53,12 +54,11 @@
         <module>toolkit-sghero</module>
         <module>toolkit-shikari</module>
         <module>toolkit-signer</module>
+        <module>toolkit-spine</module>
         <module>toolkit-swf</module>
         <module>toolkit-tth</module>
         <module>toolkit-viewer</module>
         <module>toolkit-window</module>
-        <module>toolkit-xk-excel</module>
-        <module>toolkit-xk-mail</module>
         <module>webpage-tphx</module>
     </modules>
 

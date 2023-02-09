@@ -16,6 +16,7 @@
     toolkit-db-mysql
     toolkit-db-xlsx
     toolkit-dnf
+    toolkit-dragonbones
     toolkit-ffmpeg
     toolkit-file-hash
     toolkit-file-merge
@@ -32,9 +33,10 @@
     toolkit-misc
     toolkit-mobile
     toolkit-pfs
-    toolkit-pkg
     toolkit-proxy
     toolkit-psw-get
+    toolkit-pvz
+    toolkit-qq3g
     toolkit-qqfo
     toolkit-qqhx
     toolkit-qqnc
@@ -46,10 +48,10 @@
     toolkit-sghero
     toolkit-shikari
     toolkit-signer
+    toolkit-spine
     toolkit-swf
     toolkit-tth
     toolkit-viewer
-    toolkit-window
-    webpage-tphx) do cd /d %current%%%i&if exist ".git" %~1
+    toolkit-window) do cd /d %current%%%i&if exist ".git" %~1
 
 @pause
