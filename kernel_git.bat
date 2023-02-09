@@ -4,6 +4,7 @@
 @echo %~1
 
 @for %%i in (
+    lib47-hx-editor
     toolkit-git-clone
     toolkit-hx-editor
     toolkit-xk-excel
