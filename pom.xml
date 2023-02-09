@@ -17,6 +17,7 @@
         <module>lib47-cmd</module>
         <module>lib47-dbtoolkit</module>
         <module>lib47-dnf</module>
+        <module>lib47-dragonbones</module>
         <module>lib47-free-arc</module>
         <module>lib47-helper</module>
         <module>lib47-hls</module>
@@ -24,6 +25,7 @@
         <module>lib47-hxdl</module>
         <module>lib47-image</module>
         <module>lib47-io</module>
+        <module>lib47-iso</module>
         <module>lib47-javafx</module>
         <module>lib47-javafx-display</module>
         <module>lib47-javafx-viewer</module>
@@ -36,18 +38,19 @@
         <module>lib47-network</module>
         <module>lib47-nim</module>
         <module>lib47-pfs</module>
-        <module>lib47-pkg</module>
         <module>lib47-poi</module>
         <module>lib47-proxy</module>
+        <module>lib47-pvz</module>
+        <module>lib47-qq3g</module>
         <module>lib47-qqfo</module>
         <module>lib47-qqhx</module>
-        <module>lib47-qqnc</module>
         <module>lib47-qqt</module>
         <module>lib47-qqxl</module>
         <module>lib47-renpy</module>
         <module>lib47-sanguo</module>
         <module>lib47-sghero</module>
         <module>lib47-shikari</module>
+        <module>lib47-spine</module>
         <module>lib47-swf</module>
         <module>lib47-taobao</module>
         <module>lib47-task</module>
