@@ -59,7 +59,6 @@
         <module>toolkit-tth</module>
         <module>toolkit-viewer</module>
         <module>toolkit-window</module>
-        <module>webpage-tphx</module>
     </modules>
 
     <properties>
@@ -67,9 +66,6 @@
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-
-        <toolkit.deploy.root>C:/Kizzzy/Toolkit</toolkit.deploy.root>
-        <toolkit.release.root>D:/DevProject/toolkit/toolkit-java-release</toolkit.release.root>
     </properties>
 
     <build>
