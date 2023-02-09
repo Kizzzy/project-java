@@ -1,1 +1,1 @@
-@call kernel_mvn.bat "mvn clean package -DskipTests" %~1
+@call kernel_mvn.bat "mvn clean package -DskipTests -Dtoolkit.deploy.root=C:/Kizzzy/Toolkit -Dtoolkit.release.root=D:/DevProject/toolkit/toolkit-java-release" %~1
