@@ -51,6 +51,7 @@
     lib47-temp
     lib47-tencent
     lib47-tencent-network
+    lib47-test
     lib47-toolkit
     lib47-vfs
     lib47-vfs-network) do cd /d %current%%%i&if exist ".git" %~1
