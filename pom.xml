@@ -6,11 +6,15 @@
 
     <groupId>cn.kizzzy</groupId>
     <artifactId>misc-java</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${lib47.version}</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>toolkit-git-clone</module>
+        <module>toolkit-hc-demo</module>
+
+        <module>lib47-dont-starve</module>
+        <module>toolkit-dont-starve</module>
 
         <module>lib47-hx-editor</module>
         <module>toolkit-hx-editor</module>
@@ -24,6 +28,9 @@
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+
+        <lib47.version>1.0-SNAPSHOT</lib47.version>
+        <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
     </properties>
 
     <build>
@@ -31,8 +38,9 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.5.1</version>
+                <version>${maven-compiler-plugin.version}</version>
             </plugin>
         </plugins>
     </build>
+    
 </project>

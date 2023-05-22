@@ -1,13 +1,9 @@
 @set current=%~dp0
 
-@echo %current%
-@echo %~1
+@echo wsp: %current%
+@echo cmd: %~1
+@echo=
 
-@for %%i in (
-    lib47-hx-editor
-    toolkit-git-clone
-    toolkit-hx-editor
-    toolkit-xk-excel
-    toolkit-xk-mail) do cd /d %current%%%i&if exist ".git" %~1
+@for /d %%i in (*) do @( cd /d %current%%%i & if exist ".git" echo %current%%%i & %~1 & echo= & cd /d %current% )
 
 @pause
