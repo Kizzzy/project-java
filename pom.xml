@@ -10,33 +10,24 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>game-2048</module>
-        <module>game-tetris</module>
-        <module>game-gobang</module>
         <module>toolkit-21tb</module>
         <module>toolkit-archive</module>
         <module>toolkit-clicker</module>
         <module>toolkit-codec</module>
         <module>toolkit-crawler</module>
-        <module>toolkit-data-analysis</module>
-        <module>toolkit-db-mysql</module>
-        <module>toolkit-db-xlsx</module>
+        <module>toolkit-db</module>
         <module>toolkit-dnf</module>
         <module>toolkit-dragonbones</module>
         <module>toolkit-ffmpeg</module>
-        <module>toolkit-file-hash</module>
-        <module>toolkit-file-merge</module>
-        <module>toolkit-file-rename</module>
+        <module>toolkit-file</module>
         <module>toolkit-gui</module>
         <module>toolkit-hls</module>
         <module>toolkit-http</module>
         <module>toolkit-hxdl</module>
-        <module>toolkit-image-blend</module>
         <module>toolkit-json</module>
         <module>toolkit-krkr</module>
         <module>toolkit-media</module>
         <module>toolkit-memory</module>
-        <module>toolkit-misc</module>
         <module>toolkit-mobile</module>
         <module>toolkit-pfs</module>
         <module>toolkit-proxy</module>

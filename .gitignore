@@ -18,10 +18,6 @@
 # IntelliJ
 *.iml
 .idea/
-.user/
-/**/target/
 
-# Module
-/game-*/
-/toolkit-*/
-/webpage-*/
+# Custom
+/**/
