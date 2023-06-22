@@ -1,1 +1,2 @@
-@call kernel_mvn.bat "mvn clean package -DskipTests -Dtoolkit.deploy.root=C:/Kizzzy/Toolkit -Dtoolkit.release.root=D:/DevProject/toolkit/toolkit-java-release" %~1
+@set d=%date:~0,4%%date:~5,2%%date:~8,2%
+@call kernel_mvn.bat "mvn clean package -DskipTests -Dtoolkit.deploy.root=C:/Kizzzy/Toolkit -Dtoolkit.release.root=D:/DevProject/toolkit/toolkit-java-release/%d%" %~1
