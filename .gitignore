@@ -18,6 +18,4 @@
 # IntelliJ
 *.iml
 .idea/
-.user/
-/**/target/
-/lib47-*/
+/**/

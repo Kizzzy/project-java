@@ -3,12 +3,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+    
     <groupId>cn.kizzzy</groupId>
     <artifactId>lib47-java</artifactId>
     <version>${lib47-version}</version>
     <packaging>pom</packaging>
-
+    
     <modules>
         <module>lib47-21tb</module>
         <module>lib47-algorithm</module>
@@ -36,7 +36,6 @@
         <module>lib47-media</module>
         <module>lib47-netty</module>
         <module>lib47-network</module>
-        <module>lib47-nim</module>
         <module>lib47-pfs</module>
         <module>lib47-poi</module>
         <module>lib47-proxy</module>
@@ -57,22 +56,21 @@
         <module>lib47-temp</module>
         <module>lib47-tencent</module>
         <module>lib47-tencent-network</module>
-        <module>lib47-test</module>
         <module>lib47-toolkit</module>
         <module>lib47-vfs</module>
         <module>lib47-vfs-network</module>
     </modules>
-
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
+        
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-
+        
         <lib47-version>1.0-SNAPSHOT</lib47-version>
         <maven-compiler-plugin-version>3.5.1</maven-compiler-plugin-version>
     </properties>
-
+    
     <build>
         <plugins>
             <plugin>
@@ -82,5 +80,5 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
