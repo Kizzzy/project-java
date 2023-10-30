@@ -10,6 +10,16 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>game-2048</module>
+        <module>game-gobang</module>
+        <module>game-tetris</module>
+        <module>lib47-temp</module>
+        <module>lib47-test</module>
+        <module>toolkit-db-mysql</module>
+        <module>toolkit-db-xlsx</module>
+        <module>toolkit-file-hash</module>
+        <module>toolkit-file-merge</module>
+        <module>toolkit-file-rename</module>
     </modules>
 
     <properties>
