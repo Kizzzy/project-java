@@ -10,17 +10,24 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>lib47-dont-starve</module>
+        <module>lib47-hx-editor</module>
+        <module>lib47-qqnc</module>
+        <module>toolkit-data-analysis</module>
+        <module>toolkit-dont-starve</module>
         <module>toolkit-git-clone</module>
         <module>toolkit-hc-demo</module>
-
-        <module>lib47-dont-starve</module>
-        <module>toolkit-dont-starve</module>
-
-        <module>lib47-hx-editor</module>
         <module>toolkit-hx-editor</module>
+        <module>toolkit-image-blend</module>
+        <module>toolkit-misc</module>
+
+
+
+        <module>toolkit-qqnc</module>
 
         <module>toolkit-xk-excel</module>
         <module>toolkit-xk-mail</module>
+        <module>webpage-tphx</module>
     </modules>
 
     <properties>
