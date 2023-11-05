@@ -5,11 +5,35 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kizzzy</groupId>
-    <artifactId>project-java</artifactId>
+    <artifactId>lib47-vfs-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
+        <module>lib47-archive</module>
+        <module>lib47-dnf</module>
+        <module>lib47-dragonbones</module>
+        <module>lib47-free-arc</module>
+        <module>lib47-hxdl</module>
+        <module>lib47-iso</module>
+        <module>lib47-krkr</module>
+        <module>lib47-pfs</module>
+        <module>lib47-pvz</module>
+        <module>lib47-qq3g</module>
+        <module>lib47-qqfo</module>
+        <module>lib47-qqhx</module>
+        <module>lib47-qqt</module>
+        <module>lib47-qqxl</module>
+        <module>lib47-renpy</module>
+        <module>lib47-sanguo</module>
+        <module>lib47-sghero</module>
+        <module>lib47-shikari</module>
+        <module>lib47-spine</module>
+        <module>lib47-swf</module>
+        <module>lib47-tencent</module>
+        <module>lib47-tencent-network</module>
+        <module>lib47-unity3d</module>
+        <module>lib47-zmxy</module>
     </modules>
 
     <properties>
