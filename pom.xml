@@ -5,11 +5,24 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kizzzy</groupId>
-    <artifactId>project-java</artifactId>
+    <artifactId>lib47-api-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
+        <module>lib47-21tb</module>
+        <module>lib47-baidu</module>
+        <module>lib47-bilibili</module>
+        <module>lib47-dingtalk</module>
+        <module>lib47-discord</module>
+        <module>lib47-jingdong</module>
+        <module>lib47-nim</module>
+        <module>lib47-nnnu</module>
+        <module>lib47-qmsg</module>
+        <module>lib47-qywx</module>
+        <module>lib47-taobao</module>
+        <module>lib47-telegram</module>
+        <module>lib-yinxiang</module>
     </modules>
 
     <properties>
