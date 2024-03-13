@@ -3,12 +3,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+    
     <groupId>cn.kizzzy</groupId>
     <artifactId>toolkit-java</artifactId>
     <version>${lib47.version}</version>
     <packaging>pom</packaging>
-
+    
     <modules>
         <module>toolkit-21tb</module>
         <module>toolkit-archive</module>
@@ -36,7 +36,6 @@
         <module>toolkit-qq3g</module>
         <module>toolkit-qqfo</module>
         <module>toolkit-qqhx</module>
-        <module>toolkit-qqnc</module>
         <module>toolkit-qqt</module>
         <module>toolkit-quickly</module>
         <module>toolkit-renpy</module>
@@ -50,18 +49,20 @@
         <module>toolkit-tth</module>
         <module>toolkit-viewer</module>
         <module>toolkit-window</module>
+        
+        <module>toolkit-yinxiang</module>
     </modules>
-
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
+        
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-
+        
         <lib47.version>1.0-SNAPSHOT</lib47.version>
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
     </properties>
-
+    
     <build>
         <plugins>
             <plugin>
